@@ -1,0 +1,44 @@
+body
+{
+text-align: center;
+}
+
+h2
+{
+    font-family: 'Shantell Sans', cursive;
+    color: chocolate;
+}
+
+#Apps
+{
+background:linear-gradient(lightblue,lightgreen);
+}
+
+#Games
+{
+    background:linear-gradient(pink,lightgrey);
+}
+
+#ChatBot
+{
+    background:linear-gradient(lightgreen,yellow);
+}
+
+#My_carrucel
+{
+background-color: antiquewhite;
+}
+
+#My_carrucel img
+{
+height: 300px;
+margin-top: 35px;
+}
+
+.carrucel_inner
+{
+margin-top: 15px;
+color: black;
+font-size: 20px;
+}
+
